@@ -12,6 +12,12 @@ body {
 	background-image: url(galaxy-milky-way-orbit-110854.jpg);
 	background-attachment: fixed;
 }
+.footer {
+	color: #A6A6A6;
+	margin-left: 60px;
+	margin-bottom: 20px;
+}
+
 .content {
     width: 80%;
     margin-left: 10%;
