@@ -1,7 +1,7 @@
 .header {
     text-align: center;
     color: #C16323;
-    font-size: x-large;
+    font-size: xx-large;
 }
 body {
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
@@ -24,6 +24,7 @@ body {
     border-radius: 5px;
     background-color: #1E1E1E;
     padding-bottom: 1px;
+    font-size: x-large;
 }
 .header .subtitle {
     margin-top: -30px;
